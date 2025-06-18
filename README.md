@@ -1,5 +1,6 @@
 ### Hello! I'm Jung Park 👋 
-- Welcome to my GitHub page. Here you'll mainly see repositories of work done in University, along with a few personal projects. 
-- Programming languages I know include C/C++, Java, Python, SQL, HTML/CSS, JavaScript, React.
+- Welcome to my GitHub page. Here you'll mainly see repositories from my coursework. I'll try to add more projects later on.
+- The main languages I use are C/C++, Java, Python
+- I'm working on getting better at web development
 
-If you want to reach out to me, you can do so on my LinkedIn at any time (it's on my profile!)
+Feel free to reach out to me on my LinkedIn
