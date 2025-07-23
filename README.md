@@ -1,6 +1,11 @@
-### Hello! I'm Jung Park 👋 
-- Welcome to my GitHub page. Here you'll mainly see repositories from my coursework. I'll try to add more projects later on.
-- The main languages I use are C/C++, Java, Python
-- I'm working on getting better at web development
+# Hi! I'm Jung Park 👋 
+- Final year Software Engineering student at University of Calgary
+- Looking for internship opportunities
 
-Feel free to reach out to me on my LinkedIn
+## Languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cpp,java,react,sql)](https://skillicons.dev)
+
+## Contacts
+[![My LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/junghwanp/)
+[![My GitHub](https://skillicons.dev/icons?i=github)](https://www.github.com/jungp22/)
+[![My LeetCode](https://img.icons8.com/?size=48&id=wDGo581Ea5Nf&format=png&color=000000)](https://leetcode.com/u/junghwan_park/)
