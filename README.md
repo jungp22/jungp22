@@ -1,6 +1,5 @@
 # Hi! I'm Jung Park 👋 
 - Final year Software Engineering student at University of Calgary
-- Looking for internship opportunities
 
 ## Languages
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,python,c,cpp,java,react,sql)](https://skillicons.dev)
